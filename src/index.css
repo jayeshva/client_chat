@@ -1,0 +1,38 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+#logo{
+    width:150px;
+    height:125px;
+    top: -25px;
+    position: relative;
+    left: 50px;
+
+}
+
+#inputbox{
+    position: relative;
+    border-radius:7px;
+
+}
+
+#text{
+    color: black;
+    font-size: small;
+}
+
+#head{
+    margin-top: 35px;
+    position: relative;
+    top: -90px;
+    font-weight: 600;
+    left:15px;
+    color: rgb(147, 31, 255);
+    font-size: xx-large;
+}
+
+#person{
+    color: black;
+}
